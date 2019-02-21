@@ -1,1 +1,3 @@
-function foobar() {}
+function foobar() {
+  console.log('foobar')
+}
